@@ -22,18 +22,9 @@
     * Object instantation/declaration
     * Method invokation
 
-### **Resources:**
-* [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
-
-### Unit Test
-* No Unit Test
-
-
 ### Instructions
-1. Understand how to get input from user
+1. Understand how to get input string from user
 2. Create conditional to check against Alice and Bob
 3. Print greeting to screen if Alice or Bob are true
-
-
-## What's next?
-* The next lab can be founds [here](https://github.com/Zipcoder/ZCW-MicroLabs-JavaFundamentals-SumOfInput).
+4. Print "You are neither Alice nor Bob."
+5. When finished, make *certain* your last commit message is "finished"
