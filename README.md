@@ -48,3 +48,8 @@ System.out.println("Hello, " + name + "!");
 ```
 
 Standard input and standard output are important concepts in Java programming that allow programs to interact with the user and other programs.
+
+### Do the `Github` thing
+
+When finished, make *certain* your last commit message is "finished"
+
