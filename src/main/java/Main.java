@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Created by iyasuwatts on 10/17/17.
  * Modified by kristofer on Jan 2024.
@@ -18,6 +20,12 @@ public class Main {
         // Print greeting to screen if Alice or Bob are true
         
         // Print "You are neither Alice nor Bob." otherwise
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your name: ");
+
+        String userName = sc.next();
+        System.out.println("Hello, " + userName + "!");
 
     }
 }
